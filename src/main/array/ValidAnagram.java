@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ValidAnagram {
+
     /*
      * LeetCode 242 | Valid Anagram
      * Level: Easy
