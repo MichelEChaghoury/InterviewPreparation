@@ -54,7 +54,10 @@ public class TwoSum {
             int complement = target - currentValue;
 
             if (map.containsKey(complement)) {
-                return new int[] { map.get(complement), i };
+                indices[0] = map.get(complement);
+                indices[1] = i;
+
+                break;
             }
 
             map.put(currentValue, i);

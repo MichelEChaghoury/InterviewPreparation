@@ -1,6 +1,6 @@
-# Interview Preparation Kit
+# Interview Preparation
 
-## Technical Interview Problems
+## Technical Interview Questions
 
 A collection of the most common and important _data structures_ and _algorithms_ asked during **technical interviews**.
 
@@ -18,6 +18,6 @@ The project is structured as follows:
 - binarysearch
 - dynamicprogramming
 
-## Behavioural Inteview Problems
+## Behavioural Inteview Questions
 
 The `FAQ.md` file is a collection of the most common and frequently asked questions with answers during **behavioural interviews**.
