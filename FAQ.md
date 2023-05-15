@@ -26,7 +26,7 @@ I follow a 5-step process to ensure all deadlines are met.
 Use the **STAR** technique:
 
 - Situation: In my previous Job, I volunteered to cover the tasks of a co-worker who was off sick for several weeks. This situation resulted in me having to manage the work of two people.
-- Task: It was my task to ensure my own work, and that of my co-workers were completed on time and to the required standards.
+- Task: It was my task to ensure my work, and that of my co-workers were completed on time and to the required standards.
 - Action: I started by collating both my own and my co-worker's duties into a list. I then rearranged the list with the urgent tasks at the top, and the remainder in descending order based on priority, I then decided how long each task would take to complete including the resources needed. Finally, I blocked out my diary, canceled non-urgent appointments and set to work.
 - Result: By being meticulous in my planning and organizing, I was able to complete the work of two people while my co-worker was off sick. My manager praised me for my work ethic and the fact I had volunteered during a very busy period for the company.
 
@@ -45,7 +45,7 @@ My Biggest Weakness is the fact I am not yet very good at public speaking, howev
 
 ## Why do you want to leave your job?
 
-I want to leave my job simply because I want a _fresh challenge_ with a _forward-thinking_ company such as yours where my _skills & qualities_ will be put to good use. My employer has been great, and very supportive, and we achieved lots of positive things while I have been there However, I am now ready for the _next chapter of my career_ which I hope will be with your company
+I want to leave my job simply because I want a _fresh challenge_ with a _forward-thinking_ company such as yours where my _skills & qualities_ will be put to good use. My employer has been great, and very supportive, and we achieved lots of positive things while I have been there However, I am now seeking more responsibilities and the opportunity for career growth. I want the next stage of my development to be in this job working for your company. I will get more satisfaction in this position while working alongside other ambitious, dedicated, and talented people
 
 ## Why do you want this job?
 
