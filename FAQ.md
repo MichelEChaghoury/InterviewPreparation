@@ -51,9 +51,42 @@ I want to leave my job simply because I want a _fresh challenge_ with a _forward
 
 I want this job for three reasons. The first reason is that my skills and qualities are a great match for the job description. This means I can get up to speed quickly in the role, and you won't have to spend your valuable time closely monitoring me. The second reason is that I am passionate about this type of work. We spend a lot of time at work, and I want that time to be put to good use in a role I love, and where I can see the difference my contribution is making to the team. Finally, I want this job because it is with your company. You support your employees, you have a good reputation, and you have exciting plans that I would like to be a part of
 
+## What would you do if you made a serious mistake at work?
+
+I would immediately own up to the mistake and inform my manager.  
+I would then take positive action to put things right and assess what I did wrong to learn from the situation, so it doesn't happen again.  
+Finally, I would share my findings with the other people on my team so they could learn from the situation, too.
+
+## It's late on Friday afternoon and nearly time to go home. The company's website crashes. What would you do?
+
+The wrong thing to do in this situation would be to leave it until Monday because the company would lose sales and revenue over the weekend.  
+Therefore, I would quickly assess the problem myself to see if the website issue was an obvious one.  
+If it wasn't obvious, I would speak to the IT department if the company had one or ask my manager for permission to hire an online contractor through a website such as Upwork.com so they could fix the issue.  
+Once the problem was rectified, I would inform my manager before going home for the weekend.
+
 ## can you tell me about a time when you made a mistake?
 
-When I first started work in my previous role my manager asked for a volunteer to complete an important time-sensitive task and I agreed to be that person now the task involved migrating modules to the latest Java web application versions for a client. When I started working on the task I soon realized I had underestimated how long it was going to take me to complete it, now because of my mistake I had to commit extra hours, and stay at work overtime to get the job finish on time, moving forward I made sure I never made the same mistake again. I consider carefully each task I was responsible for and I took the time to determine the exact amount of hours and resources it would take me to finish it
+When I first started work in my previous role my manager asked for a volunteer to complete an important time-sensitive task and I agreed to be that person now the task involved migrating modules to the latest Java web application versions for a client. When I started working on the task I soon realized I had underestimated how long it was going to take me to complete it, now because of my mistake I had to commit extra hours, and stay at work overtime to get the job finish on time, moving forward I made sure I never made the same mistake again. I consider carefully each task I was responsible for and I took the time to determine the exact amount of hours and resources it would take me to finish it.
+
+## What would you do if you had to collaborate on a project with a colleague with whom you disagreed?
+
+The outcome of the project would be my priority, so I would take positive steps to build a good working relationship with them and reach a compromise to benefit the project.  
+I would listen to my colleagues' ideas, put my suggestions forward, and create a plan of action that included our best ideas and suggestions.  
+At all times, I would be respectful of my client but insist that we focus on the project's end goal and do all we could to achieve the best outcome possible.
+
+## What would you do if an angry customer confronted you with a complaint?
+
+I Wouldn't take anything the customer said personally. Instead, I would remain calm, professional, let the customer speak, and use active listening skills.  
+At the right time, I would intervene and tell the customer I was there to help them and that I would feel the same if the situation had happened to me. I would apologize if the company was at fault.  
+I would ask the customer probing questions to clarify the issue and suggest a suitable outcome to resolve the complaint quickly and amicably.  
+Once the customer had confirmed they were satisfied with my resolution, I would seek to learn from the situation and share my findings with my manager and team.
+
+## What would you do if your boss asked you to complete a task you'd not done before?
+
+I would see this as an opportunity for me to learn a new skill, so I would be excited about the opportunity.  
+I would agree to do the task before going away and quickly finding out how to do it.  
+I would look at online training videos, and blogs, read company training manuals and do everything I could to learn how to carry out the task competently.  
+If I were still unsure how to do part of the task, I would ask experienced work colleagues for information and advice.
 
 ## How do you handle stress and pressure?
 
