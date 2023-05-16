@@ -68,6 +68,12 @@ Once the problem was rectified, I would inform my manager before going home for 
 
 When I first started work in my previous role my manager asked for a volunteer to complete an important time-sensitive task and I agreed to be that person now the task involved migrating modules to the latest Java web application versions for a client. When I started working on the task I soon realized I had underestimated how long it was going to take me to complete it, now because of my mistake I had to commit extra hours, and stay at work overtime to get the job finish on time, moving forward I made sure I never made the same mistake again. I consider carefully each task I was responsible for and I took the time to determine the exact amount of hours and resources it would take me to finish it.
 
+## What areas do you need to improve on right now?
+
+I need to improve my ability to give talks and presentations to large groups of people.  
+It is a skill I am eager to develop, so if there are any opportunities for me to give presentations or lectures on work-related subjects to my team in this position, then I would love to give it a try.  
+Although I need to develop in this area, I don't believe it will hinder my ability to meet the requirements of the job description.
+
 ## What would you do if you had to collaborate on a project with a colleague with whom you disagreed?
 
 The outcome of the project would be my priority, so I would take positive steps to build a good working relationship with them and reach a compromise to benefit the project.  
