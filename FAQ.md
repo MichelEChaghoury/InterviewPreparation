@@ -27,7 +27,7 @@ Use the **STAR** technique:
 
 - Situation: In my previous Job, I volunteered to cover the tasks of a co-worker who was off sick for several weeks. This situation resulted in me having to manage the work of two people.
 - Task: It was my task to ensure my work, and that of my co-workers were completed on time and to the required standards.
-- Action: I started by collating both my own and my co-worker's duties into a list. I then rearranged the list with the urgent tasks at the top, and the remainder in descending order based on priority, I then decided how long each task would take to complete including the resources needed. Finally, I blocked out my diary, canceled non-urgent appointments and set to work.
+- Action: I started by collating both my own and my co-worker's duties into a list. I then rearranged the list with the urgent tasks at the top, and the remainder in descending order based on priority, I then decided how long each task would take to complete including the resources needed. Finally, I blocked out my diary, canceled non-urgent appointments, and set to work.
 - Result: By being meticulous in my planning and organizing, I was able to complete the work of two people while my co-worker was off sick. My manager praised me for my work ethic and the fact I had volunteered during a very busy period for the company.
 
 ## How do you organize your workspace?
@@ -91,7 +91,7 @@ Once the customer had confirmed they were satisfied with my resolution, I would 
 
 I would see this as an opportunity for me to learn a new skill, so I would be excited about the opportunity.  
 I would agree to do the task before going away and quickly finding out how to do it.  
-I would look at online training videos, and blogs, read company training manuals and do everything I could to learn how to carry out the task competently.  
+I would look at online training videos, and blogs, read company training manuals, and do everything I could to learn how to carry out the task competently.  
 If I were still unsure how to do part of the task, I would ask experienced work colleagues for information and advice.
 
 ## How do you handle stress and pressure?
@@ -116,7 +116,7 @@ I thoroughly enjoyed the process and finding out more about your company.
 
 ## How do you prioritize and organize your work?
 
-I prioritize my work based on the needs of the company I am working for. I draw up a list of daily tasks and then decide which ones need to be completed first based on the importance, urgency and operational goals of the company. I often use a traffic light system for tasks based on priority level. Red tasks need my immediate attention, amber tasks are next, and green tasks can be completed when I have more time available. I also ensure there is flexibility in my working day to respond to urgent tasks or work requests from my manager or supervisor
+I prioritize my work based on the needs of the company I am working for. I draw up a list of daily tasks and then decide which ones need to be completed first based on the importance, urgency, and operational goals of the company. I often use a traffic light system for tasks based on priority level. Red tasks need my immediate attention, amber tasks are next, and green tasks can be completed when I have more time available. I also ensure there is flexibility in my working day to respond to urgent tasks or work requests from my manager or supervisor
 
 ## How would you describe yourself in three words?
 
@@ -128,7 +128,7 @@ No, this is the only job I have applied for. I wanted to work for your company f
 
 ## Describe yourself in one sentence
 
-I would describe myself as someone who _fits quickly into any team_, a _fast learner_, a _supportive co-worker_ and the type of person who always goes above and beyond what is expected of him\_
+I would describe myself as someone who _fits quickly into any team_, a _fast learner_, a _supportive co-worker_, and the type of _person who always goes above and beyond what is expected of him_
 
 ## Why should we hire you?
 
@@ -160,3 +160,7 @@ What makes me unique is the fact that I always go out of my way to fit into a te
 ## What are your skills?
 
 I have five core skills that I believe will add value to your organization. I am a strong _communicator and listener_ when speaking to my colleagues and managers I always ask them questions to establish their needs and listen to what they have to say. I am an excellent _team worker and collaborator_ who supports my co-workers and helps them _develop professionally_ I am a good _problem solver_ who tries to _resolve_ issues instead of passing them on to my manager. I am a strong _planner and organizer_ of my work and I can _prioritize tasks_ accordingly. Finally, I am _always professional_ I have a strong _work ethic_ and I will always be a _positive role model_ for your organization
+
+## What can you offer us that other candidates can't?
+
+I can offer you a _passion for my work_ that results in me _completing more work than the average person_. I can offer you a _long-term commitment_ to your company which means you won't have to readvertise the post for many years to come. I can also offer you _in-depth expertise and knowledge_ in this industry that has been built up over several years. This means I can _hit the ground running and make an immediate and positive difference_ in the team. Finally, I can offer you _loyalty_, _trustworthiness_, _adaptability_ to change, and a promise that I will always support you to _achieve the company goals and objectives_.
