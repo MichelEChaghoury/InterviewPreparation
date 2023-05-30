@@ -39,6 +39,10 @@ I Organize my workspace by doing four things.
 3. Number three, anything that is pending, or requires my attention soon, is placed in a filling system on my desk.
 4. Finally, number four, at the end of each working day, I will clean my workspace in preparation for the following day's work.
 
+## How do you define success?
+
+I define success as being fit and healthy, and having a good job that I am passionate about and enjoy doing. Receiving positive feedback from my employer, manager, and co-workers and also having goals I am striving to achieve, whenever I reach a goal or a milestone I view that as being successful.
+
 ## What is your biggest weakness?
 
 My Biggest Weakness is the fact I am not yet very good at public speaking, however, this is a skill I want to develop, so if there are any opportunities in this role for me to give talks or presentations to my team, then I would love to give it a try
