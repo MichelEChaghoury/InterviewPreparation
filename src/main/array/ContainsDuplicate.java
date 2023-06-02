@@ -32,6 +32,12 @@ public class ContainsDuplicate {
      * -109 <= nums[i] <= 109
      */
 
+    /**
+     * check if an array contains duplicate values
+     * 
+     * @param nums array to check for duplicates
+     * @return True when duplicates were found. False when containing unique values
+     */
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<>();
 

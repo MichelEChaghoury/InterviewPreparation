@@ -21,6 +21,14 @@ I follow a 5-step process to ensure all deadlines are met.
 1. I will then **begin work** and **take action to limit all distractions**.
 1. Finally, I will periodically **Assess my Progress against the work schedule** and **adapt my space or style of work until the deadline is met**.
 
+## What didn't you like about your last job?
+
+There wasn't much I disliked about my last job. However, if I did have to choose something, I would say it was the slight lack of ambition the company demonstrated at times. I could see lots of opportunities for us to take advantage of in the industry, such as new products and services that our customers wanted. However, whenever I put forward any ideas and suggestions, the company didn't want to take them forward or listen to what I had to say. While I respected their decision, I felt it was a missed opportunity.
+
+## Tell me about a time you dealt with a difficult co-worker
+
+In my previous job, I was tasked with working alongside a senior member of the team. Unfortunately, he was not very approachable, and whenever I put forward ideas and suggestions, he immediately dismissed them. I decided to try a different approach. I found out that we both supported the same sports team and during a work break, I started talking to him about the team and the upcoming games. He immediately changed his attitude toward me, and we discussed our common interests. From that day onwards, he was engaging, helpful, and cooperative whenever I wanted to discuss work-related matters we were both collaborating on.
+
 ## Tell me about a time you had to manage multiple tasks or projects
 
 Use the **STAR** technique:
