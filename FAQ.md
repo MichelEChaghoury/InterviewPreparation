@@ -130,9 +130,11 @@ I am suitable for this job because I have the skills, qualities, and knowledge t
 ## Do you have any questions?
 
 - What advice would you give to the successful candidate who wants to _excel_ in the role?
-- Can you tell me more about the team, that the successful candidate for this role would be a part of? What is the plan for the company for the next five to ten years?
+- Can you tell me more about the team, that the successful candidate for this role would be a part of?
+- What is the plan for the company for the next five to ten years?
 - What opportunities would there be in the role for ongoing training and development
 - What metrics or goals will my performance be evaluated against?
+- What would my success in the role look like twelve months from now?
 
 ## Is there anything you would like to add?
 
@@ -189,3 +191,7 @@ I have five core skills that I believe will add value to your organization. I am
 ## What can you offer us that other candidates can't?
 
 I can offer you a _passion for my work_ that results in me _completing more work than the average person_. I can offer you a _long-term commitment_ to your company which means you won't have to readvertise the post for many years to come. I can also offer you _in-depth expertise and knowledge_ in this industry that has been built up over several years. This means I can _hit the ground running and make an immediate and positive difference_ in the team. Finally, I can offer you _loyalty_, _trustworthiness_, _adaptability_ to change, and a promise that I will always support you to _achieve the company goals and objectives_.
+
+## At the end of this interview, do you have anything else you'd like to add?
+
+Yes, I would like to say thank you for the opportunity to be interviewed for this position today. If you hire me, I will work hard to repay the trust you will have shown in taking me on in the position, and I will take ownership of my professional development, so I am always a useful asset to my team.
