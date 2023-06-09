@@ -74,7 +74,7 @@ In the past years, I have made a few transitions in my career to explore differe
 
 ## Why do you want this job?
 
-I want this job for three reasons. The first reason is that my skills and qualities are a great match for the job description. This means I can get up to speed quickly in the role, and you won't have to spend your valuable time closely monitoring me. The second reason is that I am passionate about this type of work. We spend a lot of time at work, and I want that time to be put to good use in a role I love, and where I can see the difference my contribution is making to the team. Finally, I want this job because it is with your company. You support your employees, you have a good reputation, and you have exciting plans that I would like to be a part of
+I want this job for three reasons. The first reason is that my skills and qualities are a great match for the job description. This means I can get up to speed quickly in the role, and you won't have to spend your valuable time closely monitoring me. The second reason is that I am passionate about this type of work. We spend a lot of time at work, and I want that time to be put to good use in a role I love, and where I can see the difference my contribution is making to the team. Finally, I want this job because it is with your company. I want to work for your company because I will be pushed and challenged, get to work on exciting projects, and be supported by a forward-thinking management team who have created an inclusive working environment where people are respected, and there is opportunity for everyone.
 
 ## What would you do if you made a serious mistake at work?
 
