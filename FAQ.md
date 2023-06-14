@@ -2,7 +2,9 @@
 
 ## Tell me about yourself
 
-First of all, Thank you very much for allowing me to be interviewed for this position today, I would describe myself as a resourceful, energetic, and passionate employee who has the skills and qualities to match the job description, previous managers would often describe me as industrious, trustworthy, and someone they could rely on to carry out their duties on time and to an exacting standard. I am very ambitious and a High achiever so for example in my last role I helped my company achieve performance improvement of 20% by improving their code base and optimizing database queries. I keep myself fit and active outside of work which means my energy and concentration levels are always high, and if you hire me I will take personal responsibility for my ongoing development which means I will always be a highly productive member of your team
+First of all, Thank you very much for providing me the opportunity to interview for this position with your company.  
+I would describe myself as an industrious, loyal, hard-working, and cooperative employee who understands how important teamwork and professionalism are in my job. I have the background, education, and experience to match the job description, my skills, and experience, have been built upon years of hard-working and commitment. My experience includes working on time-sensitive projects, and critical tasks. I take ownership of my professional development, I would consider myself to be goal-oriented, result-driven, and, a high-achiever.  
+For example in my previous job, I helped my company achieve a performance improvement of 20% by upgrading their code base and optimizing database packages and queries. If you hire me I will the type of employee who is always a positive role model for the company, and take ownership of difficult challenges and problems whenever they occur to help the company maintain its position as a market leader.
 
 ## How do you prioritize your work?
 
@@ -57,7 +59,9 @@ My Biggest Weakness is the fact I am not yet very good at public speaking, howev
 
 ## Why do you want to leave your job?
 
-I want to leave my job simply because I want a _fresh challenge_ with a _forward-thinking_ company such as yours where my _skills & qualities_ will be put to good use. My employer has been great, and very supportive, and we achieved lots of positive things while I have been there However, I am now seeking more responsibilities and the opportunity for career growth. I want the next stage of my development to be in this job working for your company. I will get more satisfaction in this position while working alongside other ambitious, dedicated, and talented people
+I want to leave my job simply because I feel I have reached my full potential there.  
+My employer has been fantastic, they've been great to work for, and we've achieved many positive things while I have been working there.  
+However, I am now seeking more responsibilities, bigger challenges, and the opportunity for career growth within a continuously evolving and impactful environment where all my skills and qualities will be put to good use. I want the next stage of my development to be in this job working for your company. I will get more satisfaction in this position while working alongside other ambitious, dedicated, and talented people
 
 ## What Kind Of Work Environment Do You Like?
 
@@ -174,7 +178,7 @@ I would try to resolve the conflict with my co-worker without involving my manag
 
 ## Where do you see yourself in the next 5 years?
 
-In the next five years, I plan to still be working for your company either in this role or having gained a promotion to a more senior level. I have researched your company in detail and I can genuinely see myself building a long-term career here and becoming a productive, reliable, and high-performing member of the team
+In the next five years, I plan to still be working for your company either in this role or having gained a promotion to a more senior level. In five years, I want to be the go-to expert in my area of specialism and also be seen as someone who could be relied upon to help train new team members whenever they join the company.
 
 ## What do you know about our company?
 
