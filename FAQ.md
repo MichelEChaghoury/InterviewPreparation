@@ -40,6 +40,13 @@ Use the **STAR** technique:
 - Action: I started by collating both my own and my co-worker's duties into a list. I then rearranged the list with the urgent tasks at the top, and the remainder in descending order based on priority, I then decided how long each task would take to complete including the resources needed. Finally, I blocked out my diary, canceled non-urgent appointments, and set to work.
 - Result: By being meticulous in my planning and organizing, I was able to complete the work of two people while my co-worker was off sick. My manager praised me for my work ethic and the fact I had volunteered during a very busy period for the company.
 
+## Tell me about a time when you failed
+
+- **Situation:** I studied an online training course several years ago because I wanted to improve my Knowledge in this area. It was a 6 Month course, and there was an examination at the end. Unfortunatly because I taught I knew everything, I failed the exam!
+- **Task:** I was embarassed to have failed, but I had nobody else to blame but myself. It was my task to learn from the situation, put things right, and make sure I never failed again.
+- **Action:** I spent a week studying, took the examination again, and passed with a high score.
+- **Result:** Since that day, I now prepare fully for everything, and I never take things for granted. I have learned that preparation and hard work are vital for success.
+
 ## How do you organize your workspace?
 
 I Organize my workspace by doing four things.
@@ -78,7 +85,7 @@ In the past years, I have made a few transitions in my career to explore differe
 
 ## Why do you want this job?
 
-I want this job for three reasons. The first reason is that my skills and qualities are a great match for the job description. This means I can get up to speed quickly in the role, and you won't have to spend your valuable time closely monitoring me. The second reason is that I am passionate about this type of work. We spend a lot of time at work, and I want that time to be put to good use in a role I love, and where I can see the difference my contribution is making to the team. Finally, I want this job because it is with your company. I want to work for your company because I will be pushed and challenged, get to work on exciting projects, and be supported by a forward-thinking management team who have created an inclusive working environment where people are respected, and there is opportunity for everyone.
+I want this job for three reasons. The first reason is that my skills and qualities are a great match for the job description. This means I can get up to speed quickly in the role, and you won't have to spend your valuable time closely monitoring me. The second reason is that I am passionate about this type of work. We spend a lot of time at work, and I want that time to be put to good use in a role I love, and where I can see the difference my contribution is making to the team. Finally, I want this job because it is with your company. I have been following your company for some time, I am ippressed by your track record of achievements, you are clearly a company that has execellent standards, good values and ethics, and you create an inclusive working environment where there is opportunity for everyone.
 
 ## What would you do if you made a serious mistake at work?
 
