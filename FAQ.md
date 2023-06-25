@@ -81,7 +81,7 @@ I also believe this is the ideal work environment for my working style.
 
 ## Why you have frequently changed jobs and now applying for this position?
 
-In the past years, I have made a few transitions in my career to explore different opportunities and gain diverse experiences. While each change allowed me to develop new skills and learn from different industries and projects, I realized that my true passion lies in software engineering. The reason I am applying for this role is that it perfectly aligns with my long-term career goals and offers the opportunity to leverage my technical expertise and contribute to meaningful projects. I believe my previous experiences have provided me with a valuable perspective and a versatile skill set, which I can bring to this position and make a positive impact on your team. I am committed to dedicating my expertise and continuous learning to contribute effectively to this role and the success of the company.
+First of all I want to say that I appreciate your concerns, and I would have them too of I were you. The reason for me changing jobs so frequently is because I did not reaserch the companies enough before applying for the jobs and I haven't yet found the right company with the ambitions and workplace culture I am seeking, I also haven't found a role where my skills, knowledge and experience have been fully utilized. However I have reaserched your company in great detail and I want to reassure you that I am willing to build a strong and long term career at your company
 
 ## Why do you want this job?
 
