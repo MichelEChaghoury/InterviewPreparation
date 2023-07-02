@@ -170,10 +170,11 @@ I would describe myself as someone who _fits quickly into any team_, a _fast lea
 
 ## Why should we hire you?
 
-- You should hire me because I am _results-driven_ and someone who will always put the needs of his team first
-- You should hire me because I am a _swift learner_, I can absorb lots of information, and I will carry out tasks outside of my job description to help the company when needed
-- You should also hire me because I am the type of employee who takes _ownership of difficult challenges & problems_ instead of passing them on to my manager to deal with
-- Finally, you should hire me because I am a _completer-finisher_. Someone who can be _relied upon_ to always get things done on time and to the _expected standards_
+You should hire me because my skills, qualities and knowledge are a great match for the job description.  
+You should hire me because I am swift learner, and because I understand how important collaborative working and high standards are in this position.  
+You should also hire me because I am results-driven, and not afraid to take difficult challenges and problems.  
+you should hire me because I am a completer-finisher. Someone who can be relied upon to always get things done on time and to the expected standards.  
+Finally, you should hire me because I always embrase change with a positive mindset, and my flexibility and adaptibility mean I am willing to take on duties outside of my job description, resulting in a greater return to the company.
 
 ## What do you do in your free time?
 
@@ -206,3 +207,8 @@ I can offer you a _passion for my work_ that results in me _completing more work
 ## At the end of this interview, do you have anything else you'd like to add?
 
 Yes, I would like to say thank you for the opportunity to be interviewed for this position today. If you hire me, I will work hard to repay the trust you will have shown in taking me on in the position, and I will take ownership of my professional development, so I am always a useful asset to my team.
+
+## Tell me something that is not on your CV or Resume
+
+One thing that is not on my CV or resume is I was the person who trained new team members when they joined my previous company. I really enjoyed the responability of doing this because it enabled me to improve my communication and coaching skills.  
+I really enjoyed contributing to the organization by teaching the new team members the importance of our workplace values.
