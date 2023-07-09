@@ -38,12 +38,6 @@ public class GroupAnagrams {
      * 
      */
 
-    /**
-     * Groups the anagrams together from the given arrays of Strings
-     *
-     * @param strs an array of Strings
-     * @return a list of lists containing the grouped anagrams
-     */
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> results = new LinkedList<>();
         Map<String, List<String>> map = new HashMap<>();

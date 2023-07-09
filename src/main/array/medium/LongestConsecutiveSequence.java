@@ -31,13 +31,6 @@ public class LongestConsecutiveSequence {
      * 
      */
 
-    /**
-     * Returns the length of the longest consecutive elements sequence in the given
-     * array.
-     * 
-     * @param nums the input array of integers
-     * @return the length of the longest consecutive elements sequence
-     */
     public int longestConsecutive(int[] nums) {
         int maxLength = 0;
         Set<Integer> set = new HashSet<>();

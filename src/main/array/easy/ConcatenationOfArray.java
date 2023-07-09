@@ -36,12 +36,6 @@ public class ConcatenationOfArray {
      * 
      */
 
-    /**
-     * Concatenates the given array with itself.
-     * 
-     * @param nums the input array of integers
-     * @return the concatenated array
-     */
     public int[] getConcatenation(int[] nums) {
         int numberOfConcatenations = 2;
         int[] concatenatedArray = new int[nums.length * numberOfConcatenations];

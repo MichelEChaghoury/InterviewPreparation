@@ -29,13 +29,6 @@ public class ValidAnagram {
      * s and t consist of lowercase English letters.
      */
 
-    /**
-     * Checks if the given Strings are anagrams.
-     *
-     * @param s the first String
-     * @param t the second String
-     * @return true if they are anagrams, false otherwise
-     */
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) {
             return false;

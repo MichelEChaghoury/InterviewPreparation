@@ -34,13 +34,6 @@ public class TopKFrequentElements {
      * 
      */
 
-    /**
-     * Returns the k most frequent elements from the given array.
-     *
-     * @param nums the integer array
-     * @param k    the number of elements to return
-     * @return an array containing the k most frequent elements
-     */
     public int[] topKFrequent(int[] nums, int k) {
         int[] topKFrequentElements = new int[k];
         Map<Integer, Integer> map = new HashMap<>();

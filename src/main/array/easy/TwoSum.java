@@ -41,14 +41,6 @@ public class TwoSum {
      * complexity?
      */
 
-    /**
-     * Find the indices of two numbers in the given array that add up to the given
-     * target.
-     * 
-     * @param nums   the array of numbers
-     * @param target the target value to lookup
-     * @return the indices of the two numbers that add up to the target
-     */
     public int[] twoSum(int[] nums, int target) {
         int[] results = new int[2];
         Map<Integer, Integer> map = new HashMap<>();
