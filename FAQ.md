@@ -42,8 +42,8 @@ Use the **STAR** technique:
 
 ## Tell me about a time when you failed
 
-- **Situation:** I studied an online training course several years ago because I wanted to improve my Knowledge in this area. It was a 6 Month course, and there was an examination at the end. Unfortunatly because I taught I knew everything, I failed the exam!
-- **Task:** I was embarassed to have failed, but I had nobody else to blame but myself. It was my task to learn from the situation, put things right, and make sure I never failed again.
+- **Situation:** I studied an online training course several years ago because I wanted to improve my Knowledge in this area. It was a 6 Month course, and there was an examination at the end. Unfortunately, because I taught I knew everything, I failed the exam!
+- **Task:** I was embarrassed to have failed, but I had nobody else to blame but myself. It was my task to learn from the situation, put things right, and make sure I never failed again.
 - **Action:** I spent a week studying, took the examination again, and passed with a high score.
 - **Result:** Since that day, I now prepare fully for everything, and I never take things for granted. I have learned that preparation and hard work are vital for success.
 
@@ -81,11 +81,11 @@ I also believe this is the ideal work environment for my working style.
 
 ## Why you have frequently changed jobs and now applying for this position?
 
-First of all I want to say that I appreciate your concerns, and I would have them too of I were you. The reason for me changing jobs so frequently is because I did not reaserch the companies enough before applying for the jobs and I haven't yet found the right company with the ambitions and workplace culture I am seeking, I also haven't found a role where my skills, knowledge and experience have been fully utilized. However I have reaserched your company in great detail and I want to reassure you that I am willing to build a strong and long term career at your company
+First of all, I want to say that I appreciate your concerns, and I would have them too if I were you. The reason for my changing jobs so frequently is that I did not research the companies enough before applying for the jobs and I haven't yet found the right company with the ambitions and workplace culture I am seeking, I also haven't found a role where my skills, knowledge, and experience have been fully utilized. However, I have researched your company in great detail and I want to reassure you that I am willing to build a strong and long-term career at your company
 
 ## Why do you want this job?
 
-I want this job for three reasons. The first reason is that my skills and qualities are a great match for the job description. This means I can get up to speed quickly in the role, and you won't have to spend your valuable time closely monitoring me. The second reason is that I am passionate about this type of work. We spend a lot of time at work, and I want that time to be put to good use in a role I love, and where I can see the difference my contribution is making to the team. Finally, I want this job because it is with your company. I have been following your company for some time, I am ippressed by your track record of achievements, you are clearly a company that has execellent standards, good values and ethics, and you create an inclusive working environment where there is opportunity for everyone.
+I want this job for three reasons. The first reason is that my skills and qualities are a great match for the job description. This means I can get up to speed quickly in the role, and you won't have to spend your valuable time closely monitoring me. The second reason is that I am passionate about this type of work. We spend a lot of time at work, and I want that time to be put to good use in a role I love, and where I can see the difference my contribution is making to the team. Finally, I want this job because it is with your company. I have been following your company for some time, and I am impressed by your track record of achievements, you are a company that has excellent standards, good values, and ethics, and you create an inclusive working environment where there is opportunity for everyone.
 
 ## What would you do if you made a serious mistake at work?
 
@@ -170,11 +170,11 @@ I would describe myself as someone who _fits quickly into any team_, a _fast lea
 
 ## Why should we hire you?
 
-You should hire me because my skills, qualities and knowledge are a great match for the job description.  
-You should hire me because I am swift learner, and because I understand how important collaborative working and high standards are in this position.  
-You should also hire me because I am results-driven, and not afraid to take difficult challenges and problems.  
+You should hire me because my skills, qualities, and knowledge are a great match for the job description.  
+You should hire me because I am a swift learner and because I understand how important collaborative working and high standards are in this position.  
+You should also hire me because I am results-driven, and not afraid to take on difficult challenges and problems.  
 you should hire me because I am a completer-finisher. Someone who can be relied upon to always get things done on time and to the expected standards.  
-Finally, you should hire me because I always embrase change with a positive mindset, and my flexibility and adaptibility mean I am willing to take on duties outside of my job description, resulting in a greater return to the company.
+Finally, you should hire me because I always embrace change with a positive mindset, and my flexibility and adaptability mean I am willing to take on duties outside of my job description, resulting in a greater return to the company.
 
 ## What do you do in your free time?
 
@@ -210,5 +210,8 @@ Yes, I would like to say thank you for the opportunity to be interviewed for thi
 
 ## Tell me something that is not on your CV or Resume
 
-One thing that is not on my CV or resume is I was the person who trained new team members when they joined my previous company. I really enjoyed the responability of doing this because it enabled me to improve my communication and coaching skills.  
-I really enjoyed contributing to the organization by teaching the new team members the importance of our workplace values.
+One thing that is not on my CV or resume is I was the person who trained new team members when they joined my previous company. I enjoyed the responsibility of doing this because it enabled me to improve my communication and coaching skills. I enjoyed contributing to the organization by teaching the new team members the importance of our workplace values.
+
+## What makes you stand out from the rest?
+
+Five things make me stand out from the rest. Number one, I am a solid match for the job description. Number two, I need minimal supervision, meaning I can have an immediate impact in the role. Number three, I am a supportive team worker and have a strong work ethic, everything will be done on time and to a high standard, and I will be a good role model for the company. Number four, I am creative and will seek ways to help you grow. Finally, number five, I am always positive and will embrace change with a positive mindset to ensure you are always a market leader.
