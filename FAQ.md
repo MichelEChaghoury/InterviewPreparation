@@ -86,6 +86,14 @@ My biggest achievement as a Java software developer was delivering a robust ente
 
 I define success as being fit and healthy, and having a good job that I am passionate about and enjoy doing. Receiving positive feedback from my employer, manager, and co-workers and also having goals I am striving to achieve, whenever I reach a goal or a milestone I view that as being successful.
 
+## Tell me about a time when you supported a work colleague who was struggling
+
+A new member of staff joined our team and I could tell he was having difficulty using our computer systems and software packages.  
+He was too anxious to ask for help so I spoke to him in private and explained that I had felt the same when I first joined the company.  
+I asked him if he would find it useful if we spent some time together working through the different software packages, and he said yes.  
+I then put a plan of action in place of the things I wanted to show him and spent thirty minutes each day during breaks teaching him everything I knew.  
+Within one week he had reached competence in the position and I gave a copy of the action plan I had used to my manager and suggested we could use it again in the future to teach new staff members.
+
 ## What is your biggest weakness?
 
 My Biggest Weakness is the fact I am not yet very good at public speaking, however, this is a skill I want to develop, so if there are any opportunities in this role for me to give talks or presentations to my team, then I would love to give it a try
