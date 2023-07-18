@@ -56,6 +56,32 @@ I Organize my workspace by doing four things.
 3. Number three, anything that is pending, or requires my attention soon, is placed in a filling system on my desk.
 4. Finally, number four, at the end of each working day, I will clean my workspace in preparation for the following day's work.
 
+## Tell me about a time you handled conflict in the workplace
+
+In my last job, two colleagues argued over the best way to complete a project. I could detect the conflict was impacting their progress, so I offered to mediate and find a resolution.
+
+I got together with them in private and asked them to outline their project brief and the main cause of the conflict.  
+I encouraged them both to focus on the project goal and write down a list of how they could achieve it in the fastest and most efficient way possible.
+
+When they brought their collective ideas together in writing, they could see the best way to achieve the project goal. They then went on to complete the project without further issues.  
+Getting them to focus on the project objective, not their agendas, helped them gain clarity and overcome the conflict.
+
+## Describe a time when your style of communication improved a situation
+
+I encountered a situation where effective communication improved a project's outcome.  
+Our development team faced a misalignment with the QA team, leading to delays in bug identification and resolution.  
+I organized a meeting, simplified the software's architecture, and fostered regular communication channels. This resulted in improved understanding, better bug reports, and enhanced collaboration.  
+The project's quality improved, and the release process became smoother.  
+This experience taught me the power of adapting communication styles and fostering teamwork to overcome challenges and achieve better outcomes as a software engineer.
+
+## Tell me about a time when you achieved success even when the odds were stacked against you
+
+Despite facing tight deadlines, changing requirements, and limited resources, I tackled a challenging project. By breaking down tasks, prioritizing effectively, and implementing agile methodologies, we delivered a high-quality software product that exceeded expectations. This experience taught me the importance of perseverance, adaptability, and teamwork in achieving success, even when the odds are stacked against you.
+
+## What's been your biggest achievement to date?
+
+My biggest achievement as a Java software developer was delivering a robust enterprise application that improved operational efficiency and saved costs for the client. Through meticulous coding and testing, I created a scalable solution that received positive feedback from end users. This accomplishment showcased my ability to address complex business challenges and deliver high-quality software.
+
 ## How do you define success?
 
 I define success as being fit and healthy, and having a good job that I am passionate about and enjoy doing. Receiving positive feedback from my employer, manager, and co-workers and also having goals I am striving to achieve, whenever I reach a goal or a milestone I view that as being successful.
