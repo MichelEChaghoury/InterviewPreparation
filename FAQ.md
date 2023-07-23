@@ -86,6 +86,16 @@ My biggest achievement as a Java software developer was delivering a robust ente
 
 I define success as being fit and healthy, and having a good job that I am passionate about and enjoy doing. Receiving positive feedback from my employer, manager, and co-workers and also having goals I am striving to achieve, whenever I reach a goal or a milestone I view that as being successful.
 
+## Tell me about a time you went above and beyond your job duties
+
+A new person joined my team, and I could tell he was anxious.  
+He struggled to get used to our computer systems and software packages during his first days.  
+Although not a part of my day-to-day duties, I wanted to help him settle into his work quickly, so I offered to train him to the expected standard.  
+After he agreed to accept my assistance, I asked him several questions to determine his training needs.  
+I then put together a plan of action of what I would teach him and how long it would take.  
+I then spent the next two weeks teaching him during lunch breaks and measuring his progress against my action plan.  
+At the end of the two weeks, he was at the required standard, and his confidence had improved significantly.
+
 ## Tell me about a time when you supported a work colleague who was struggling
 
 A new member of staff joined our team and I could tell he was having difficulty using our computer systems and software packages.  
@@ -171,6 +181,26 @@ I handle stress and pressure by remaining calm, being positive, planning and org
 ## Why do you think you are suitable for this job?
 
 I am suitable for this job because I have the skills, qualities, and knowledge to meet the requirements of the job description. I am suitable for this job because my knowledge and experience are relevant to this industry, and I understand how to meet the needs of the company and the clients that I am working for. I am also suitable for this job because I am genuinely passionate about this type of work. If you are passionate about your work you will do a great job for your employer, and support your co-workers in their duties, too
+
+## How would you explain something complex to someone who didn't understand?
+
+I would determine their level of knowledge by asking questions.  
+I would then use a style of communication they could relate to and use situations and explanations to get across my message.  
+I am confident I could achieve my goal by slowing down my communication, being patient, and asking them questions to confirm they understood.
+
+## If we gave you multiple tasks to work on, how would you prioritize them?
+
+I would create a list of the tasks I were responsible for and place them in order of priority based on the company's goals.  
+I would color-code each task based on priority.  
+Red tasks would be urgent and require immediate attention.  
+Orage second, and green could be left for when I have more time.  
+I would then determine how long each task would take to complete, block out all distractions and set to work.
+
+## You are working on a project with a very tight deadline. You are waiting on a co-worker to finish their part of the project, but they are three days late. What would you say or do?
+
+I would speak to them tactfully and ask how they were getting on with their work.  
+They may be experiencing problems that are out of their control, in which case I would put forward my ideas as to how we could resolve the issue.  
+I would emphasize how important their work was to the completion of the project, and I would offer to help to speed things up.
 
 ## Do you have any questions?
 
