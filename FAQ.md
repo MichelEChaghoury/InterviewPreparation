@@ -279,3 +279,35 @@ One thing that is not on my CV or resume is I was the person who trained new tea
 ## What makes you stand out from the rest?
 
 Five things make me stand out from the rest. Number one, I am a solid match for the job description. Number two, I need minimal supervision, meaning I can have an immediate impact in the role. Number three, I am a supportive team worker and have a strong work ethic, everything will be done on time and to a high standard, and I will be a good role model for the company. Number four, I am creative and will seek ways to help you grow. Finally, number five, I am always positive and will embrace change with a positive mindset to ensure you are always a market leader.
+
+## What is your plan of action for your first 30 days?
+
+I already have a plan of action for what I will do when I start work here. In the first 30 days, I will meet with my manager to obtain a brief of what is expected of me in the role, the values I must demonstrate in my work and the goals I must achieve in the first 30 days I will learn all company's policies and procedures introduce my self to my team establish my co-workers roles and determine how I can contribute to the team's objectives. Finally, in the first 30 days of starting work, I will commence work on the company's tasks and projects to show you what I am capable of achieving I have brought along with me a 90 days plan of action that determines what I will do for you in this position and I would like you to have a copy.
+
+## Tell me about a time when you had to solve a complex code problem
+
+In a previous software engineering position, I worked on coding problems for an internal department.  
+An inexperienced software engineer had created the code but was on annual leave, so I could not contact him to discuss the issue.  
+Therefore, I had to use a common sense approach to solving the problem. The most common errors junior software engineers unwittingly make are syntax and logic.  
+Because the system was generating a wrong solution, I presumed it was a logical error, and after further investigation, I confirmed this was the issue.
+Once the problem had been rectified, I emailed the junior software engineer to explain the problem I had found and advised him on how to prevent it from reoccurring.  
+I recommended that he break down his code into small, manageable and testable chunks and then test it before progressing to the next.
+
+## Describe a situation when you had to collaborate with a difficult software engineer.
+
+I was working on a project for a company client with three other software engineers. We all had varying levels of knowledge and expertise, which was a strength.  
+However, one of the engineers continually insisted his approach to solving the project challenges was right, despite data and evidence suggesting otherwise.
+I detected his communication style and arrogance irritated the other engineers, so I decided to speak to him in private.  
+I wanted the project to run smoothly so decided to stop the conflict before it escalated  
+I explained to the engineer that his expertise and talent were invaluable to the team but that we needed to focus on the facts and data to progress the project action plan.  
+After I'd explained that time was of the essence and that we needed to collaborate solely based on the project objectives, he agreed to change the communication style.
+
+## Tell me about a time when you had to manage competing deadlines
+
+In my current software engineer position, I volunteered to continue the work of a co-worker who was on leave for several weeks.  
+We were both working on separate time-sensitive projects, but I saw this as an opportunity to help him and the company during a busy period.  
+It was my task to prioritize the workload for both projects to ensure the competing deadlines were met.  
+I was using a Gantt chart for my project, so I set up another one for my co-workers to assess priorities and measure progress during the two weeks.
+This proved to be a brilliant idea because I quickly determined there were identical tasks across both projects that could be completed concurrently.  
+For the tasks requiring separate time allocation, I drew up a list of priorities, blocked out all distractions, and worked quickly and efficiently.  
+By being organized, analyzing tasks for both projects and creating a priorities list, I could make excellent progress on both projects while my co-worker was on leave.
